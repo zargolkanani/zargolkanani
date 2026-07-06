@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi there, I'm Zargol Kanani 
 
-<!--
-**zargolkanani/zargolkanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Fresh%20Graduate-brightgreen" />
+  <img src="https://img.shields.io/badge/Field-Data%20Science-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+I'm a **Computer Engineering graduate** currently building my skills in **Data Science and Machine Learning** through academic projects and hands-on practice.
+
+- 🔭 Working on improving my Data Science & ML skills through projects  
+- 🌱 Learning Python libraries, data analysis, and predictive modeling  
+- 🤝 Interested in collaborating on Data Science and ML projects  
+- 💬 Ask me about programming basics, Python, or data analysis  
+- ⚡ I enjoy turning raw data into meaningful insights  
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+## 📂 Featured Areas
+
+- 📊 Data Analysis (Pandas, NumPy, EDA)
+- 📈 Data Visualization (Matplotlib, Seaborn)
+- 🤖 Machine Learning (Scikit-learn)
+- 🗄️ Databases (SQL Server / SQLite)
+- 🧠 Programming (Python, OOP)
+
+---
+
+## 📬 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/zargol-kanani-1410b4262
+- 📧 Email: zargolkanani@gmail.com
+- 💻 GitHub: https://github.com/zargolkanani
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
