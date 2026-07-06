@@ -43,7 +43,7 @@ I'm a **Computer Engineering graduate** currently building my skills in **Data S
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
 
 <p align="center">
